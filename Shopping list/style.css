@@ -4,6 +4,9 @@
 
 body{
     margin: 0;
+    border-style: solid;
+    border-color: white;
+    border-width: 23px;
     background-color: #3B3F45;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -42,6 +45,7 @@ padding-bottom: 1em;
 background-color: #4A4F56;
 color: #E37E7F;
 font-size: 16pt;
+margin-bottom: 102px;
 }
 
 .appetit:hover{
